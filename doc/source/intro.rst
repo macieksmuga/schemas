@@ -64,9 +64,3 @@ Here is an example schema definition for a Variant (with comments removed)::
 
 On the wire, the GA4GH web API takes the form of a client and a server exchanging JSON-serialized objects over HTTP or HTTPS. For more details on JSON, including how the GA4GH web API serializes and deserializes Avro-specified objects in JSON, see :ref:`json`.
 
-------------------------------
-Sample code
-------------------------------
-
-API sample code and examples are available at :ref:`samplecode`.
-
